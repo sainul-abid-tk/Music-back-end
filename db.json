@@ -1,36 +1,80 @@
 {
   "allvideos": [
     {
-      "id": "1",
-      "caption": "Tere Hawale",
+      "caption": "Tere Hawale Song",
       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/d0/a8/1ed0a8aa-a8dd-2730-2481-96438f96ddfc/8903431892119_cover.jpg/1200x1200bf-60.jpg",
-      "link": "https://www.youtube.com/embed/2CXSw1oPj3I"
+      "link": "https://www.youtube.com/embed/KUpwupYj_tY",
+      "id": 1
     },
     {
-      "id": "2",
-      "caption": "Leo Badass song",
-      "url": "https://w0.peakpx.com/wallpaper/611/712/HD-wallpaper-ps-thalapathy-leo-poster-vijay-actor.jpg",
-      "link": "https://www.youtube.com/embed/IqwIOlhfCak"
+      "caption": "Neru Trailer",
+      "url": "https://en-images.kinorium.com/movie/1080/10784400.jpg?1702268508",
+      "link": "https://www.youtube.com/embed/abuLOH7xs8I",
+      "id": 4
     },
     {
-      "id": "3",
-      "caption": "Leo NaanReady",
-      "url": "https://i.scdn.co/image/ab67616d0000b27322184598701ab40d70bf75a1",
-      "link": "https://www.youtube.com/embed/3wDiqlTNlfQ"
+      "caption": "Kotha Raja Song",
+      "url": "https://files.prokerala.com/news/photos/imgs/1024/first-look-of-dulquer-starrer-king-of-kotha-out-1451502.jpg",
+      "link": "https://www.youtube.com/embed/X-MZXIXPwFw",
+      "id": 8
     },
     {
-      "id": "4",
-      "caption": "Salaar Trailer ",
+      "caption": "Dunki Trailer",
+      "url": "https://resizing.flixster.com/JCtt0_FmcQdpRH3TmDWHG96jZBs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2M2I4ZWFhLTIyYzAtNGZiYi05M2RhLTE5YzZiZDI2NDQ3My5qcGc=",
+      "link": "https://www.youtube.com/embed/uOlDK7g7b-E",
+      "id": 9
+    },
+    {
+      "caption": "Salaar Trailer",
       "url": "https://1847884116.rsc.cdn77.org/tamil/home/salaar_1.jpg",
-      "link": "https://www.youtube.com/embed/LJmi_BW3AOs"
-    },
-    {
-      "id": "5",
-      "caption": "Unakku Thaan ",
-      "url": "https://amtcorp.org/wp-content/uploads/2023/10/Chithha.png",
-      "link": "https://www.youtube.com/embed/bui3q02NK8Y"
+      "link": "https://www.youtube.com/embed/HihakYi5M2I",
+      "id": 10
     }
   ],
-  "history": [],
-  "categories": []
+  "history": [
+    {
+      "caption": "Unakku Thaan Song",
+      "link": "https://www.youtube.com/embed/bui3q02NK8Y",
+      "timeStamp": "12/21/2023, 07:30:49 PM",
+      "id": 1
+    },
+    {
+      "caption": "Kotha Raja Song",
+      "link": "https://www.youtube.com/embed/X-MZXIXPwFw",
+      "timeStamp": "12/22/2023, 04:02:51 PM",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "categoryName": "Movie Songs",
+      "allVideos": [
+        {
+          "caption": "Kotha Raja Song",
+          "url": "https://files.prokerala.com/news/photos/imgs/1024/first-look-of-dulquer-starrer-king-of-kotha-out-1451502.jpg",
+          "link": "https://www.youtube.com/embed/X-MZXIXPwFw",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "categoryName": "Movie Trailers",
+      "allVideos": [
+        {
+          "caption": "Neru Trailer",
+          "url": "https://en-images.kinorium.com/movie/1080/10784400.jpg?1702268508",
+          "link": "https://www.youtube.com/embed/abuLOH7xs8I",
+          "id": 4
+        },
+        {
+          "caption": "Salaar Trailer",
+          "url": "https://1847884116.rsc.cdn77.org/tamil/home/salaar_1.jpg",
+          "link": "https://www.youtube.com/embed/HihakYi5M2I",
+          "id": 10
+        }
+      ],
+      "id": 3
+    }
+  ]
 }
